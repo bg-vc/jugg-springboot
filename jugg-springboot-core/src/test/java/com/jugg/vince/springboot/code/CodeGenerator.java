@@ -20,7 +20,7 @@ import static com.jugg.vince.springboot.common.core.ProjectConstant.*;
  */
 public class CodeGenerator {
     //JDBC配置，请修改为你项目的实际配置
-    private static final String JDBC_URL = "jdbc:mysql://139.199.98.118:3306/springboot";
+    private static final String JDBC_URL = "jdbc:mysql://127.0.0.1:3306/springboot";
     private static final String JDBC_USERNAME = "root";
     private static final String JDBC_PASSWORD = "root";
     private static final String JDBC_DIVER_CLASS_NAME = "com.mysql.jdbc.Driver";
